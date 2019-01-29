@@ -1,0 +1,25 @@
+.card {
+  height: 250px;
+  width: 300px;
+  margin-bottom: 17%;
+  margin-top: 2%;
+  margin-left: 5%;
+}
+
+.poster {
+  height: 300px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.card-body {
+  border-style: solid;
+  border-width: 1px;
+}
+
+.note {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 40px;
+  color: #FFCC00;
+  text-shadow: 2px 2px #320707;
+}

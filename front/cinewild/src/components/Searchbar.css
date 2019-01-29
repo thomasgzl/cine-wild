@@ -1,0 +1,30 @@
+.search {
+  margin-left: 20%;
+  margin-bottom: 2%;
+}
+
+.search-bar {
+  margin-top: 2%;
+  width: 500px;
+}
+
+.search-button {
+  margin-top: 2%;
+}
+
+.type-search {
+  margin-top: 2%;
+}
+
+.filter-button {
+  background-color: rgb(33, 33, 33);
+  color: #FFCC00;
+  border: none!important;
+  transition: 0.7s;
+}
+
+.filter-button:hover {
+  background-color: #FFCC00;
+  color: rgb(33, 33, 33);
+  transition: 0.7s;
+}
